@@ -1,0 +1,1 @@
+`history` gives you the last 1,000 lines of your bash command history. It is very useful when you are trying to see what you did a few days or months ago. 

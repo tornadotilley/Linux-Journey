@@ -1,0 +1,1 @@
+Archiving files is the practice of compressing many files and bundling them together within a single file. A common tool for this is [[tar]]. 

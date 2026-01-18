@@ -1,0 +1,1 @@
+The mount command is used to mount media to the file system

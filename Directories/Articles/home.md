@@ -1,0 +1,1 @@
+This is the home for all user data and personal files. Anything that a user might store for work or ~={red}leisure=~ will be here in the home directory.n

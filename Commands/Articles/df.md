@@ -1,0 +1,1 @@
+This command shows us the amount of free space on our disk by default. If we add the `-h` flag, it will show us in human readable format.

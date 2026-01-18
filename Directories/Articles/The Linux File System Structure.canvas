@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"9eb9ae397c90b977","type":"file","file":"Linux Journey/Directories/Articles/root.md","x":-200,"y":-1320,"width":280,"height":180},
+		{"id":"0ac0278f4eb5432e","type":"file","file":"Linux Journey/Directories/Articles/bin.md","x":-760,"y":-1002,"width":300,"height":165},
+		{"id":"b1a420f7850d7cf7","type":"file","file":"Linux Journey/Directories/Articles/boot.md","x":-440,"y":-1002,"width":300,"height":165},
+		{"id":"58079dae30a7a013","type":"file","file":"Linux Journey/Directories/Articles/home.md","x":-80,"y":-1002,"width":300,"height":165},
+		{"id":"4062f2453bbdde72","x":260,"y":-1002,"width":300,"height":165,"type":"file","file":"Linux Journey/Directories/Articles/mnt.md"}
+	],
+	"edges":[
+		{"id":"386cfeddf9ac51ef","fromNode":"9eb9ae397c90b977","fromSide":"bottom","toNode":"0ac0278f4eb5432e","toSide":"top"},
+		{"id":"333bc0412dfc4e8f","fromNode":"9eb9ae397c90b977","fromSide":"bottom","toNode":"b1a420f7850d7cf7","toSide":"top"},
+		{"id":"22868e3bcf3b8819","fromNode":"9eb9ae397c90b977","fromSide":"bottom","toNode":"58079dae30a7a013","toSide":"top"},
+		{"id":"fb0b9edcd04a793d","fromNode":"9eb9ae397c90b977","fromSide":"bottom","toNode":"4062f2453bbdde72","toSide":"top"}
+	]
+}
