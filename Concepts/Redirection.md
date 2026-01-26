@@ -2,10 +2,17 @@
 **Standard output is represented by stdout** 
 The concept of understanding standard I/O (input/output) is very important when learning the command line. When we input a command, the output is displayed on the screen. This is helpful of course, but what if I want to re-purpose that output for something else? That is where redirection comes into play. By redirecting the output of a command into a file, or even another command, we can boost our command-line efficiency. 
 
+
+
+This graphic illustrates the concepts very well:
+
+![[Pasted image 20260125154436.png]]
+![[Pasted image 20260125154528.png]]
+
+
 Here is an example of a file redirection:
 
 `[ttilley@somelinux ~]$ ls -l /usr/bin > ls-output.txt`
-
 We can then open that file in text editor, like Neovim, or use [[less]]. 
 
 If we try to append something to the file using the above syntax however, it will delete the contents of the file. To avoid this, we will use the below syntax:

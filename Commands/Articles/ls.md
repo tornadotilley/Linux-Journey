@@ -7,5 +7,5 @@ These are some of the flags for the ls command:
 - `-R` - Shows all of the files in the directories, along with the directories.
 - `-l` - The long listing format. This includes much more information about the file. 
 - `-h` - For displaying file sizes in human readable format instead of byte. 
-
+- `-t` `--time` - Sorts by time, newest first.
  
