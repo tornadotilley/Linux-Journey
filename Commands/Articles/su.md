@@ -11,4 +11,10 @@ We can also execute a command from another user account by using this syntax:
 [ttilley@somelinux ~]$ su -c 'command'
 ```
 
-`su` is largely deprecated, losing favor to to [[sudo]]. j
+When `su` is executed without any arguments, the shell attempts to log in as root.
+```
+[ttilley@somelinux ~]$ su -
+```
+
+`su` is largely deprecated, losing favor to to [[sudo]]. 
+

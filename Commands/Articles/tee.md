@@ -12,4 +12,5 @@ If we want to write to a file that requires sudo privileges, we can add sudo to 
 ```
 ### Flags
 
-- **-a** - used to append the output to a file
+- `-a` - used to append the output to a file
+- `-i` - ignores interrupts
