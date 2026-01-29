@@ -7,3 +7,8 @@
 	- `[ttilley@somelinux ~]$ man [section] [search item]`
 - 'Man' pages cover much more than just the user commands. Here is a chart for all of the different sections:
 ![[Pasted image 20251211081248.png]]
+
+`man` has many options that will prove very useful:
+- `-k` - for finding a man page for a certain search term
+- `[section]` - by using the section numbers, one can go straight to the section that they want to
+ 
