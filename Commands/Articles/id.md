@@ -1,0 +1,1 @@
+`id` shows us what groups the current user belongs to. 
