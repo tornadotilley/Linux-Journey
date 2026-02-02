@@ -63,7 +63,7 @@ I have written a little more on this subject in the article '[[What Are Commands
 - [[type]]
 - [[umask]]
 - [[uniq]]
-- [[uesrmod]]
+- [[usermod]]
 - [[wc]] 
 - [[whatis]]
 - [[which]]

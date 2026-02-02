@@ -1,1 +1,0 @@
-`usermod` lets us make changes to a user account. 
